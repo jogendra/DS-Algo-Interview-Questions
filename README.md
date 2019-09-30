@@ -92,6 +92,7 @@ Collection of some important questions asked in job interviews.
    - [https://www.interviewbit.com/problems/gas-station/](https://www.interviewbit.com/problems/gas-station/)
    - [https://www.interviewbit.com/problems/reverse-a-stack-using-recursion/](https://www.interviewbit.com/problems/reverse-a-stack-using-recursion/)
    - [https://leetcode.com/problems/largest-rectangle-in-histogram/](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+   - [https://www.interviewbit.com/problems/first-non-repeating-character-in-a-stream-of-characters/](https://www.interviewbit.com/problems/first-non-repeating-character-in-a-stream-of-characters/)
    
 ## Linked List
    - [https://leetcode.com/problems/merge-two-sorted-lists/](https://leetcode.com/problems/merge-two-sorted-lists/)
