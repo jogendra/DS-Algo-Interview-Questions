@@ -158,3 +158,6 @@ Collection of some important questions asked in job interviews.
    - [https://www.interviewbit.com/problems/stairs/](https://www.interviewbit.com/problems/stairs/)
    - [https://leetcode.com/problems/minimum-path-sum/](https://leetcode.com/problems/minimum-path-sum/)
    - [https://www.interviewbit.com/problems/compute-ncr-m/](https://www.interviewbit.com/problems/compute-ncr-m/)
+   
+   ## Graph
+   - [https://leetcode.com/problems/number-of-islands/](https://leetcode.com/problems/number-of-islands/)
