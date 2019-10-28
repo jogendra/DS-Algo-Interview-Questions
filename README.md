@@ -5,7 +5,7 @@ Collection of some important questions asked in job interviews.
 ## Array
 
 - [https://leetcode.com/problems/3sum/](https://leetcode.com/problems/3sum/)  **[[SOLUTION](/Solutions/3Sum.cpp)]**
-- [https://leetcode.com/problems/trapping-rain-water/](https://leetcode.com/problems/trapping-rain-water/)
+- [https://leetcode.com/problems/trapping-rain-water/](https://leetcode.com/problems/trapping-rain-water/) **[[SOLUTION](/Solutions/trapping-rain-water.cpp)]**
 - [https://leetcode.com/problems/move-zeroes/](https://leetcode.com/problems/move-zeroes/)
 - [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 - [https://leetcode.com/problems/maximum-subarray/](https://leetcode.com/problems/maximum-subarray/)
